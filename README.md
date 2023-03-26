@@ -1,4 +1,4 @@
-### Hi there 👋 ,I am Vishal Kumar
+### Hi there 👋
 
 <!--
 **Vishal3242/Vishal3242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
